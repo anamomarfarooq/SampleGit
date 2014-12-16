@@ -1,4 +1,4 @@
 SampleGit
 =========
 
-A sample repository to understand Git and GitHub. Trying out all the commands.
+A sample repository to understand Git and GitHub. Trying out all the commands.Again modifying the content for sencon commit.
